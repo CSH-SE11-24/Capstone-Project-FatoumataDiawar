@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#coursePage{
+  background-color: #434242 !important;
+}
+
+#Quiz{
+  color: white;
+}
+
+.white{
+  color :white;
+}
+
+.cpage{
+  background-color: #949494;
+  margin: 0px;
+}
+
+
+
+#header{
+  text-align: center;
+}
+
+footer{
+  background-color: #ffc404;
+}
+
+.footerContainer{
+  height: 126px;
+}
+
+#betterPE{
+  margin-right: 0px;
+  width: 1265px;
+  padding-right: 0px;
+  text-align: center!important;
+}
+
+#buttons{
+  margin-top: 10px;
+  margin-left: 46%;
+}
+
+.cards{
+  margin-bottom: 100px;
+}
